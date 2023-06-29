@@ -19,7 +19,7 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 - **Key Achievements**: 
   - Achieved an accuracy of 90% on the celebrity classification task.
   - Implemented transfer learning with the VGG16 model to leverage pre-trained weights.
-- **Code**: [Link to the Project 1 repository](https://github.com/your-username/project1)
+- **Code**: [Link to the Project 1 repository]([https://github.com/your-username/project1](https://github.com/MohamedAchrefKaroui/DataSciencePortfolio/blob/main/celebrity_final.ipynb))
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 - **Key Achievements**: 
   - Created interactive visualizations of meteorite landing locations using maps and graphs.
   - Developed a machine learning model to predict potential landing locations.
-- **Code**: [Link to the Project 2 repository](https://github.com/your-username/project2)
+- **Code**: [Link to the Project 2 repository]([https://github.com/your-username/project2](https://github.com/MohamedAchrefKaroui/DataSciencePortfolio/blob/main/meteorite-visualization-and-prediction.ipynb))
 
 ---
 
