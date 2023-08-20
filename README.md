@@ -45,6 +45,15 @@ Code: [Link to the Project 3 repository](https://github.com/MohamedAchrefKaroui/
 
 ---
 
+## Project 4: Sign Language Hands Classification using CNN
+Description: In this project, I tackled the task of classifying different sign language hand gestures using convolutional neural networks (CNNs). I worked with a dataset of images featuring various sign gestures and aimed to build a model capable of accurately identifying and classifying these gestures.
+Technologies Used: Python, TensorFlow, Keras, CNN, image classification, data augmentation.
+Key Achievements:
+Developed a CNN architecture optimized for sign language gesture classification.
+Implemented data augmentation techniques to improve model generalization.
+Achieved a classification accuracy of 99% on a held-out test set.
+Code: [Link to the Project 4 repository](https://github.com/MohamedAchrefKaroui/DataSciencePortfolio/blob/main/sign_luanguage.ipynb)
+
 ## Skills
 
 I am a junior data scientist with a solid background in statistical analysis and machine learning. Highly motivated, skilled in turning difficult data into knowledge that can be used to advance business. Cooperative team member and effective communicator, passionate about keeping up with new trends in the field.
