@@ -6,7 +6,9 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 
 - [Project 1: Celebrity Classification using VGG16](#project-1-celebrity-classification-using-vgg16)
 - [Project 2: Meteorite Landings Visualization and Prediction](#project-2-meteorite-landings-visualization-and-prediction)
-- [Project 3: Number of Deaths by Age Group and region](#project-2-number-of-deaths-by-age-group-and-rengion)
+- [Project 3: Number of Deaths by Age Group and Region](#project-3-number-of-deaths-by-age-group-and-region)
+- [Project 4: Sign Language Hands Classification using CNN](#project-4-sign-language-hands-classification-using-cnn)
+- [Project 5: Sentiment Analysis using Bag of Words Approach and RoBERTa](#project-5-sentiment-analysis-using-bag-of-words-approach-and-roberta)
 - [Skills](#skills)
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
