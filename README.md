@@ -54,6 +54,21 @@ Implemented data augmentation techniques to improve model generalization.
 Achieved a classification accuracy of 99% on a held-out test set.
 Code: [Link to the Project 4 repository](https://github.com/MohamedAchrefKaroui/DataSciencePortfolio/blob/main/sign_luanguage.ipynb)
 
+---
+
+## Project 5: Sentiment Analysis using Bag of words approach and roBERTa
+Description: The Sentiment Analysis project focuses on analyzing textual data to determine the sentiment expressed in user reviews. Leveraging both traditional Bag of Words (BoW) approach and advanced RoBERTa-based models, the project aims to provide a comprehensive understanding of sentiment in diverse textual data. The Bag of Words method involves representing text as an unordered set of words, capturing the frequency of each word to create a feature vector. On the other hand, RoBERTa, a state-of-the-art transformer-based model, employs contextualized embeddings to capture intricate language nuances, enhancing sentiment analysis accuracy.
+Key Achievements:
+
+Hybrid Sentiment Analysis Approach: Successfully implemented a hybrid approach that combines the simplicity of Bag of Words with the advanced capabilities of RoBERTa for sentiment analysis.
+
+Feature Engineering with Bag of Words: Applied Bag of Words feature engineering to convert textual data into numerical vectors, capturing word frequencies to represent sentiment in a traditional manner.
+
+Integration of RoBERTa: Integrated RoBERTa, a transformer-based model, to leverage contextualized embeddings and enhance sentiment analysis accuracy by capturing complex language patterns and relationships.
+
+Data Preprocessing and Tokenization: Implemented robust NLP techniques for data preprocessing, including text cleaning, tokenization, and feature extraction, ensuring the models receive quality input.
+Code: [Link to the Project 4 repository](https://github.com/MohamedAchrefKaroui/DataSciencePortfolio/blob/main/Sentiment_Analysis_using_Bag_of_words_approach_and_roBERTa.ipynb)
+
 ## Skills
 
 I am a junior data scientist with a solid background in statistical analysis and machine learning. Highly motivated, skilled in turning difficult data into knowledge that can be used to advance business. Cooperative team member and effective communicator, passionate about keeping up with new trends in the field.
